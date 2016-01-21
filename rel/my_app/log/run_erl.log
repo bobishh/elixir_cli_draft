@@ -1,8 +1,0 @@
-run_erl [84904] Thu Jan 21 14:51:49 2016
-Args before exec of shell:
-run_erl [84904] Thu Jan 21 14:51:49 2016
-argv[0] = sh
-run_erl [84904] Thu Jan 21 14:51:49 2016
-argv[1] = -c
-run_erl [84904] Thu Jan 21 14:51:49 2016
-argv[2] = exec "/Users/bogdan/workspace/elixir/my_app/rel/my_app/bin/my_app" "console"
